@@ -59,7 +59,6 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
-  background:linear-gradient(to right, whitesmoke, blue)
 }
 
 /*
@@ -518,8 +517,8 @@ video {
   display: flex;
 }
 
-.content-center {
-  align-content: center;
+.cursor-\[url\(hand\.cur\)\2c _pointer\] {
+  cursor: url(hand.cur), pointer;
 }
 
 .items-center {
